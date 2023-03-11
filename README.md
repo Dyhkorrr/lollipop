@@ -37,7 +37,6 @@ prompt("Хочешь узнать информацию обо мне?!", "Хоч
   </ol>
   <hr color=#EE82EE size=6>
   
-  <img src="1.jpg" width="25%">
 
   <hr color=#DDA0DD size=4> 
 

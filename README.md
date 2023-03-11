@@ -37,19 +37,19 @@ prompt("Хочешь узнать информацию обо мне?!", "Хоч
   </ol>
   <hr color=#EE82EE size=6>
   
-  <img src="image/1.jpg" width="25%">
+  <img src="1.jpg" width="25%">
 
   <hr color=#DDA0DD size=4> 
 
   <table border="1">
   <tr>
-    <th><img src="image/1516.jpg" width="270" height="150"><th/>
-    <th><img src="image/444.jpg" width="270" height="150"><th/>
-    <th><img src="image/98.jpg" width="270" height="150"><th/>
+    <th><img src="1516.jpg" width="270" height="150"><th/>
+    <th><img src="444.jpg" width="270" height="150"><th/>
+    <th><img src="98.jpg" width="270" height="150"><th/>
   </tr>
-    <th><img src="image/36.jpg" width="270" height="150"><th/>
-    <th><img src="image/46.jpg" width="270" height="150"><th/>
-    <th><img src="image/56.jpg" width="270" height="150"><th/>
+    <th><img src="36.jpg" width="270" height="150"><th/>
+    <th><img src="46.jpg" width="270" height="150"><th/>
+    <th><img src="56.jpg" width="270" height="150"><th/>
   </tr>
   </table>
 
